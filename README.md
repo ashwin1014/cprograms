@@ -12,3 +12,4 @@ Current C Programs
 5.Linear Search (multiple elements)
 6.Binary Search
 7.Insertion Sort
+8.Bubble Sort
